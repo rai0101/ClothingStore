@@ -1,0 +1,6 @@
+C:\Users\W10-PRO\source\repos\ClothingStore\ClothingStore\bin\Debug\ClothingStore.exe.config
+C:\Users\W10-PRO\source\repos\ClothingStore\ClothingStore\bin\Debug\ClothingStore.exe
+C:\Users\W10-PRO\source\repos\ClothingStore\ClothingStore\bin\Debug\ClothingStore.pdb
+C:\Users\W10-PRO\source\repos\ClothingStore\ClothingStore\obj\Debug\ClothingStore.csproj.CoreCompileInputs.cache
+C:\Users\W10-PRO\source\repos\ClothingStore\ClothingStore\obj\Debug\ClothingStore.exe
+C:\Users\W10-PRO\source\repos\ClothingStore\ClothingStore\obj\Debug\ClothingStore.pdb
